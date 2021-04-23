@@ -12,7 +12,7 @@ In this notebook, we will do some analysis by looking at the data of Top Play St
 * What is the percentage of free video games?
 * Which video game category has the most overall ratings?
 * What category of video games are the most installed?
-* Wat are the best video games according to google play?
+* What are the best video games according to google play?
 """)
 
 data = pd.read_csv('android-games.csv')
