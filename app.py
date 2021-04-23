@@ -1,11 +1,5 @@
-from typing import List, Tuple
 import streamlit as st
 import pandas as pd
-# import base64
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-# import numpy as np
-# import yfinance as yf
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
